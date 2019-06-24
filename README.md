@@ -1,5 +1,5 @@
 # Password-generator
-Ein Passwort-Generator, der mithilfe einer RNN-Architektur Passwörtzer generiert.
+Ein Passwort-Generator, der mithilfe einer RNN-Architektur Passwörter generiert.
 Für weitere Informationen bitte ins Notebook schauen
 
 ## Getting Started
